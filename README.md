@@ -6,7 +6,7 @@ Follow this link to see a screen recording of the application
 > https://drive.google.com/open?id=12bBrFmtzNP5R8dFNww9FmpS7NwFVDm_K
 
 ## Detailed presentation:
-> Check _Presentation_WithYou
+> Check _Presentation_WithYou_
 
 ## How to run:
 > Follow the instruction manual attached 
